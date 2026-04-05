@@ -1,4 +1,4 @@
-## 0.1.0
+## 0.0.1
 
 * Initial release.
 * `PinchZoomAny` widget with pinch-to-zoom, pan, double-tap zoom, and double-tap reset.
